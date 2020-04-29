@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import RollDive from './RollDice';
+import RollDice from './RollDice';
 
 function App() {
 	return (
 		<React.Fragment>
-			<RollDive />
+			<RollDice />
 		</React.Fragment>
 	);
 }
